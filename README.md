@@ -1,1 +1,1 @@
-# Authentic or bootleg plush identifier
+An AI script that analyzes an user submitted image of a plush and determines if it's an official plush or an bootleg. The predictions are made of data sets consisting of images of plushies of the characters from Sanrio and San-X
